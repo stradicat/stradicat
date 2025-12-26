@@ -10,7 +10,6 @@ Here are some ideas to get you started:
 - 🌱 Also, I may keep on learning Rust, probably Emacs LISP ~~soon so I can collaborate in extensions development~~.
 - 👯 I’m ~~looking~~ no longer ~~to collaborate~~ collaborating on native Android applications for phones with Kotlin.
 - ⚡ Fun fact: I've switched to goldsmithing and lutherie, effectively leaving the IT industry at its worst job market in the past couple of decades.
-
 However, I wish you all every success, and will still keep an eye on projects and tools that do a thing very well.
 <!--
 - 🤔 I’m looking for help with ...
